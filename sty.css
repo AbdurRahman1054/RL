@@ -1,0 +1,42 @@
+li {
+  background-color: red;
+  margin-bottom: 10px;
+  list-style-type: decimal;
+}
+.tw {
+  background-color: honeydew;
+  list-style-type: circle;
+  list-style-position: outside;
+}
+th {
+  border: 2px solid;
+  margin-top: 20px;
+}
+.ansar {
+  border: 20px solid red;
+}
+.rr {
+  border: 20px solid blue;
+  border: dotted;
+}
+table {
+  border: none;
+}
+/* th {
+  font-size: 20px;
+  padding: 20px;
+  border: none; */
+}
+td {
+  text-align: center;
+  border: 2px solid;
+  border-radius: 10px;
+}
+.dif {
+  border-radius: 30% 70% 70% 30% / 28% 0% 100% 72%;
+  padding-right: -5px;
+}
+.noob {
+  border-collapse: collapse;
+}
+

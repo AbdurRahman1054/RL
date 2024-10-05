@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#parent-heading {
+  background-color: aqua;
+  width: 700px;
+  height: 500px;
+  margin: 40px auto;
+}
+.child-heading {
+  text-align: center;
+  padding-top: 60px;
+}
